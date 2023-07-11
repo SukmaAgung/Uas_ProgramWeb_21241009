@@ -1,0 +1,454 @@
+.uas-program-web,
+.uas-program-web * {
+  box-sizing: border-box;
+}
+a{
+  color: #ffffff;
+  text-decoration: none;
+}
+a:hover{
+  color:orange;
+}
+.uas-program-web {
+  background: #ffffff;
+  width: 1440px;
+  height: 4117px;
+  position: relative;
+  overflow: hidden;
+}
+.image-11 {
+  width: 1440px;
+  height: 1065px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.rectangle-2 {
+  width: 53.42px;
+  height: 14.9px;
+  position: absolute;
+  left: 900px;
+  top: 55.62px;
+}
+.portofolio {
+  color: #ffffff;
+  text-align: center;
+  font: 400 24px "Inter", sans-serif;
+  position: absolute;
+  left: 1022.36px;
+  top: 49.66px;
+  width: 125.38px;
+  height: 27.81px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-22 {
+  width: 88px;
+  height: 14.24px;
+  position: absolute;
+  left: 1018.94px;
+  top: 56.27px;
+}
+.rectangle-23 {
+  width: 45.47px;
+  height: 14.9px;
+  position: absolute;
+  left: 1102.18px;
+  top: 53.63px;
+}
+.contact {
+  color: #ffffff;
+  text-align: center;
+  font: 400 24px "Inter", sans-serif;
+  position: absolute;
+  left: 1169.81px;
+  top: 48.67px;
+  width: 117.94px;
+  height: 28.8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-24 {
+  width: 113.94px;
+  height: 14.9px;
+  position: absolute;
+  left: 1173.81px;
+  top: 70.51px;
+}
+.home {
+  color: #ffffff;
+  text-align: center;
+  font: 400 24px "Inter", sans-serif;
+  position: absolute;
+  left: 714px;
+  top: 44.69px;
+  width: 111.4px;
+  height: 28.8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-25 {
+  width: 64.79px;
+  height: 14.9px;
+  position: absolute;
+  left: 760.6px;
+  top: 66.54px;
+}
+.porto-folio {
+  text-align: center;
+  font: 600 25px "Poppins", sans-serif;
+  position: absolute;
+  left: 106px;
+  top: 64px;
+  width: 129.62px;
+  height: 29.79px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.porto-folio-span {
+  color: #fbb448;
+  font: 600 25px "Poppins", sans-serif;
+}
+.porto-folio-span2 {
+  color: #ffeee7;
+  font: 600 25px "Poppins", sans-serif;
+}
+.porto-folio-span3 {
+  color: #ffffff;
+  font: 600 25px "Poppins", sans-serif;
+}
+.i-am {
+  color: #fbb448;
+  text-align: center;
+  font: 400 96px "Poppins", sans-serif;
+  position: absolute;
+  left: 296px;
+  top: 481px;
+  width: 281px;
+  height: 143px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sukma-agung-sangga-permana {
+  text-align: center;
+  font: 400 50px "Poppins", sans-serif;
+  position: absolute;
+  left: 362px;
+  top: 593px;
+  width: 516px;
+  height: 149px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.sukma-agung-sangga-permana-span {
+  color: #ffffff;
+  font: 400 50px "Poppins", sans-serif;
+}
+.sukma-agung-sangga-permana-span2 {
+  color: #fbb448;
+  font: 400 50px "Poppins", sans-serif;
+}
+.rectangle-33 {
+  background: #fbb448;
+  border-radius: 15px;
+  width: 522px;
+  height: 100px;
+  position: absolute;
+  left: 35px;
+  top: 847px;
+}
+.download-resume {
+  color: #ffffff;
+  text-align: center;
+  font: 700 40px "Poppins", sans-serif;
+  position: absolute;
+  left: calc(50% - 682px);
+  top: 860px;
+  width: 516px;
+  height: 74px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.contact2 {
+  color: #ffeee7;
+  text-align: center;
+  font: 400 24px "Inter", sans-serif;
+  position: absolute;
+  left: 3088.83px;
+  top: 48.67px;
+  width: 104.83px;
+  height: 28.8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-26 {
+  width: 40.42px;
+  height: 14.9px;
+  position: absolute;
+  left: 3028.72px;
+  top: 53.63px;
+}
+.rectangle-262 {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: 562px;
+  top: 3393px;
+}
+.rectangle-31 {
+  width: 1440px;
+  height: 1024px;
+  position: absolute;
+  left: 1px;
+  top: 1065px;
+}
+.rectangle-34 {
+  width: 1440px;
+  height: 1024px;
+  position: absolute;
+  left: 1px;
+  top: 2069px;
+}
+.rectangle-35 {
+  width: 1481px;
+  height: 1024px;
+  position: absolute;
+  left: -41px;
+  top: 3093px;
+}
+.image-2 {
+  width: 75px;
+  height: 75px;
+  position: absolute;
+  left: 599px;
+  top: 3977px;
+}
+.about-me {
+  color: #ffffff;
+  text-align: center;
+  font: 700 60px "Inter", sans-serif;
+  position: absolute;
+  left: calc(50% - 143px);
+  top: 1065px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.image-1 {
+  width: 75px;
+  height: 75px;
+  position: absolute;
+  left: 480px;
+  top: 3977px;
+}
+.image-3 {
+  width: 75px;
+  height: 75px;
+  position: absolute;
+  left: 696px;
+  top: 3977px;
+}
+.image-4 {
+  width: 75px;
+  height: 75px;
+  position: absolute;
+  left: 793px;
+  top: 3977px;
+}
+.image-5 {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: 164px;
+  top: 3580px;
+}
+.image-6 {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: 908px;
+  top: 3580px;
+}
+.image-8 {
+  width: 75px;
+  height: 75px;
+  position: absolute;
+  left: 890px;
+  top: 3977px;
+}
+.about-me2 {
+  color: #ffffff;
+  text-align: center;
+  font: 400 24px "Inter", sans-serif;
+  position: absolute;
+  left: 847.88px;
+  top: 43.7px;
+  width: 148.75px;
+  height: 36.75px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rectangle-27 {
+  width: 435px;
+  height: 435px;
+  position: absolute;
+  left: 27px;
+  top: 1188px;
+}
+.rectangle-252 {
+  background: #fbb448;
+  border-radius: 15px;
+  width: 299px;
+  height: 60px;
+  position: absolute;
+  left: calc(50% - 149px);
+  top: 3123px;
+}
+.get-in-touch {
+  color: #000000;
+  text-align: center;
+  font: 400 40px "Poppins", sans-serif;
+  position: absolute;
+  left: calc(50% - 211px);
+  top: 3123px;
+  width: 424.24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.contact3 {
+  color: #ffffff;
+  text-align: center;
+  font: 700 60px "Poppins", sans-serif;
+  position: absolute;
+  left: calc(50% - 149px);
+  top: 3183px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+._2023-gtc-all-rights-reserved {
+  color: #ffffff;
+  text-align: center;
+  font: 400 30px "Poppins", sans-serif;
+  position: absolute;
+  left: calc(50% - 228px);
+  top: 4072px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.myemail-gmail-com {
+  color: #ffffff;
+  text-align: center;
+  font: 400 30px "Poppins", sans-serif;
+  position: absolute;
+  left: 225px;
+  top: 3585px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+._62-877-5980-3245 {
+  color: #ffffff;
+  text-align: center;
+  font: 400 30px "Poppins", sans-serif;
+  position: absolute;
+  left: 605px;
+  top: 3585px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.indonesia-ntb-mataram {
+  color: #ffffff;
+  text-align: center;
+  font: 400 30px "Poppins", sans-serif;
+  position: absolute;
+  left: 965px;
+  top: 3585px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.portofolio2 {
+  color: #ffffff;
+  text-align: center;
+  font: 700 60px "Poppins", sans-serif;
+  position: absolute;
+  left: calc(50% - 149px);
+  top: 2135px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.image-12 {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  left: 555px;
+  top: 3580px;
+}
+.saya-adalah-seorang-design-ui-ux-design-dengan-pengalaman-selama-2-tahun-keahlian-untuk-membuat-dan-desain-websiten-front-end {
+  color: #ffffff;
+  text-align: left;
+  font: 400 36px "Inter", sans-serif;
+  position: absolute;
+  left: 534px;
+  top: 1454px;
+}
+.sukma-agung-sangga-permana2 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 40px "Inter", sans-serif;
+  position: absolute;
+  left: 534px;
+  top: 1381px;
+}
+.saya {
+  color: #ffffff;
+  text-align: left;
+  font: 400 40px "Inter", sans-serif;
+  position: absolute;
+  left: 534px;
+  top: 1325px;
+  width: 100px;
+  height: 56px;
+}
+.screenshot-17-1 {
+  width: 504px;
+  height: 284px;
+  position: absolute;
+  left: 83px;
+  top: 2297px;
+}
+.screenshot-19-1 {
+  width: 237px;
+  height: 325px;
+  position: absolute;
+  left: 965px;
+  top: 2675px;
+}
+.screenshot-22-1 {
+  width: 470px;
+  height: 300px;
+  position: absolute;
+  left: 230px;
+  top: 2684px;
+}
+.screenshot-23-1 {
+  width: 463px;
+  height: 276px;
+  position: absolute;
+  left: 771px;
+  top: 2301px;
+}
